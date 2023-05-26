@@ -1,0 +1,9 @@
+# Directories
+.vscode/
+.DS_Store/
+data/
+
+# Files
+*.bak
+*.mp3
+*.m4a
